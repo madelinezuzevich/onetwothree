@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.overlay{
+  position:  fixed;
+  top: 100;
+  padding:  3em;
+}
+
+h1 {color: red}
+a, a:visited {color: yellow}
